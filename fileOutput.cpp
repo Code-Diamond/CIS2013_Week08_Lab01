@@ -21,7 +21,6 @@ int main()
 		exit(1);
 	}
 
-	ifstream in_a;
 
 	char cont = 'y';
 
